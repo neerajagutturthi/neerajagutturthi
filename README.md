@@ -1,5 +1,8 @@
 # Hello, I'm Neeraja Gutturthi👋 
 ### Senior QA Engineer | Manual & Test Automation 
+### Quality Engineering Senior Analyst at Accenture | Ex-TCS
+
+**📜 Certifications:** `ISTQB CTFL` • `Vskills Certified Selenium Professional`
 
 A Senior QA Engineer with **7+ years of experience** in Software Quality Assurance across the Software Testing Life Cycle (STLC), including **2 years of hands-on experience in Selenium Automation**. Passionate about delivering high-quality software through effective manual testing and maintaining reliable automation frameworks.
 
