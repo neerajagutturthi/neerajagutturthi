@@ -1,9 +1,9 @@
 # Hello, I'm Neeraja Gutturthi👋 
 ### Senior QA Engineer | Manual & Test Automation 
 
-A Senior QA Engineer with **7+ years of experience** in Software Quality Assurance across the Software Testing Life Cycle (STLC), including **2+ years of hands-on experience in Selenium Automation**. Passionate about delivering high-quality software through effective manual testing and maintaining reliable automation frameworks.
+A Senior QA Engineer with **7+ years of experience** in Software Quality Assurance across the Software Testing Life Cycle (STLC), including **2 years of hands-on experience in Selenium Automation**. Passionate about delivering high-quality software through effective manual testing and maintaining reliable automation frameworks.
 
-* 🚀 **Automation Testing:** 2+ years of experience maintaining and enhancing Hybrid Automation Frameworks using Java, Selenium WebDriver, TestNG, Page Object Model (POM), and Data-Driven Framework.
+* 🚀 **Automation Testing:** 2 years of experience maintaining and enhancing Hybrid Automation Frameworks using Java, Selenium WebDriver, TestNG, Page Object Model (POM), and Data-Driven Framework.
 * ⚙️ **Continuous Integration:** Experienced in executing automated test suites using Maven and Jenkins, with test reporting through Extent Reports.
 * 🧪 **Quality Assurance:** Strong expertise in Functional, Smoke, Sanity, Regression, and Exploratory Testing within Agile/Scrum environments.
 * 🌍 **Global Collaboration:** Worked closely with cross-functional teams and US/Italy based clients to understand requirements, resolve issues, and deliver high-quality software.
